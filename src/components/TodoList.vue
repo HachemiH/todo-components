@@ -22,7 +22,11 @@ export default {
   },
   methods: {
     addTodo() {
-      alert("test");
+      const trimmedText = this.newTodoText.trim();
+      if (trimmedText) {
+        this.todos.push(trimmedText);
+        this.newTodoText = "";
+      }
     }
   }
 };

@@ -24,7 +24,7 @@ npm install
   11.1 => 5 étapes : import, export, ajout de la balise, props et v-for
 12. Brancher un `v-model` sur la balise `TodoInputText` dans `TodoList.vue` (+ v-bind value dans `TodoInputText.vue`)
 13. Brancher un écouteur de la touche `enter` pour déclencher la méthode `addTodo` dans la balise `TodoInputText` dans `TodoList.vue`
-14. Créer la méthode `addTodo`
+14. Remplir la méthode `addTodo`
 
 
 
