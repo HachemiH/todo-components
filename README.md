@@ -9,6 +9,8 @@ L'idée ici est de découper la todo liste en 3 composants :
 - `TodoInputText.vue` (l'input)
 - `TodoListItem.vue` (la liste ul > li)
 
+Chaque étape listée ci-dessous possède une branche à part entière, vous pouvez vous y référer si vous êtes bloqué.
+
 ## Project setup
 
 ```
