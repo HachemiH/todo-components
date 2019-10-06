@@ -1,7 +1,7 @@
 <template>
   <div>
     <TodoInputText />
-    <TodoListItem />
+    <TodoListItem :todos="todos" />
   </div>
 </template>
 
