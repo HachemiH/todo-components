@@ -6,7 +6,7 @@ L'objectif de ce petit projet est de comprendre les relations parents/enfants, d
 L'idée ici est de découper la todo liste en 3 composants :
 
   - `TodoList.vue` (composant principal)
-  - `TodoInputText.vue` (l'input)
+  - `TodoInputText.vue` (input)
   - `TodoListItem.vue` (la liste ul > li)
 
 Chaque étape listée ci-dessous possède une branche à part entière, vous pouvez vous y référer si vous êtes bloqué.
